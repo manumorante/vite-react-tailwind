@@ -43,6 +43,6 @@ Change the domain to something like this:
 
 To this:
 
-`my-cool-name.vercel.app`
+`vite-cool-name.vercel.app`
 
 Inside your project go to `Settings` from the top menu and then to `Domains`.
